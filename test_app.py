@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.title("My First Streamlit App")
-st.header("This is a header")
+st.header("This is aheader")
 st.subheader("This is a subheader")
 
 name = st.text_input("Enter your name")
